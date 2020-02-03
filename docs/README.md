@@ -12,11 +12,11 @@ NASA APoD Browser is an android based client for the NASA APoD service.
 * Science teachers who want to use interesting photographs in the classroom to get students excited about astronomy.  
 * &helip;  
 
-### [User stories](user-stories.md)
+### [User Stories](user-stories.md)
 
 ## Design documentation
 
-### [Wireframe diagram](wireframe.md)
+### [Wireframe Diagram](wireframe.md)
 
 ### [Entity Relationship Diagram](erd.md)  
 
